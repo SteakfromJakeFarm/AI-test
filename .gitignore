@@ -99,3 +99,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+\.idea/AI-test\.iml
+
+\.idea/misc\.xml
+
+\.idea/modules\.xml
+
+\.idea/workspace\.xml
